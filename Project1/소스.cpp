@@ -27,7 +27,7 @@ int main() {
 			break;
 		}
 		else if (backnumber == 0) {
-			cout << "0으로 나눌 수 없어요" << endl;
+			cout << "cannot divide by 0!" << endl;
 		}
 	}
 	
